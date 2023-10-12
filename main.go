@@ -54,7 +54,6 @@ func main() {
 			var a string
 			fmt.Scan(&a)
 		} else if choise == 5 {
-			fmt.Println("Bye!")
 			break
 		}
 	}
