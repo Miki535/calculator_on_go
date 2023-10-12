@@ -7,7 +7,7 @@ func main() {
 		var s1 float64
 		var s2 float64
 		var choise uint8
-		fmt.Println("$ 1)+, 2) -, 3) *, 4) /:")
+		fmt.Println("$ 1)+, 2) -, 3) *, 4) /, 5:")
 		fmt.Scan(&choise)
 		if choise == 1 {
 			fmt.Println("$ Enter firts number:")
